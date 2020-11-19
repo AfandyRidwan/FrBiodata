@@ -1,0 +1,9 @@
+E:\Semester3\SEP\FrBiodata\FrBiodata\bin\Debug\FrBiodata.exe
+E:\Semester3\SEP\FrBiodata\FrBiodata\bin\Debug\FrBiodata.pdb
+E:\Semester3\SEP\FrBiodata\FrBiodata\bin\Debug\FrBiodata.xml
+E:\Semester3\SEP\FrBiodata\FrBiodata\obj\x86\Debug\FrBiodata.Form1.resources
+E:\Semester3\SEP\FrBiodata\FrBiodata\obj\x86\Debug\FrBiodata.Resources.resources
+E:\Semester3\SEP\FrBiodata\FrBiodata\obj\x86\Debug\FrBiodata.vbproj.GenerateResource.Cache
+E:\Semester3\SEP\FrBiodata\FrBiodata\obj\x86\Debug\FrBiodata.exe
+E:\Semester3\SEP\FrBiodata\FrBiodata\obj\x86\Debug\FrBiodata.xml
+E:\Semester3\SEP\FrBiodata\FrBiodata\obj\x86\Debug\FrBiodata.pdb
